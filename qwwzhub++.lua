@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Qwwww24/qwwz-Hub-/refs/heads/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Qwwww24/qwwz-Hub-/refs/heads/main/esploader.lua"))()
